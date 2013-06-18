@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Emcien::Api::VERSION
   spec.authors       = ["Raj Gulati"]
   spec.email         = ["rargulati@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
+  spec.description   = 'A light wrapper over the Emcien API'
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
   spec.license       = "MIT"
